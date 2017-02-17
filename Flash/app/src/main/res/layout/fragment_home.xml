@@ -1,4 +1,4 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -6,17 +6,19 @@
     tools:context="com.minhthien.tmt.flash.Fragments.Home">
 
     <!-- TODO: Update blank fragment layout -->
-    <ListView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-    </ListView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="home"
+        />
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
-        android:backgroundTint="@color/colorAccent"
         android:src="@android:drawable/ic_input_add"
+        app:backgroundTint="#FF4081"
+        android:layout_alignParentBottom="true"
+
         />
-</FrameLayout>
+</RelativeLayout>
