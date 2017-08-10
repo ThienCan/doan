@@ -15,6 +15,6 @@
 ### ESTIMATIONS
 7 days (August 10, 2017 - August 18, 2017)
 
-Start day  | End day | Tasks | Estimate (h)
----------- | ---------| -------- | ------
-| 2017/08/10 | 2017/08/10  | - Create branch feature/portfolio-landing | 8.0 
+| Start day  | End day     |    Task    | Estimate (h) |
+| ---------- | :---------: | :--------: | :------: |
+| 2017/08/10 | 2017/08/10  | - Create branch feature/portfolio-landing <br/>    - Analyze PSD file <br/> - Estimate <br/> - Create README.md file <br/> - Reading  [CSS Naming convention](https://drive.google.com/file/d/0B7etZYEsK6j5SnUxYnoxaGREMUE/view) <br/> - Reading [Code Style](https://google.github.io/styleguide/htmlcssguide.html) | 8.0 |
