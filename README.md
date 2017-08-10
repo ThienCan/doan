@@ -14,6 +14,7 @@
 - Google Chrome
 ### ESTIMATIONS
 7 days (August 10, 2017 - August 18, 2017)
+
 Start day  | End day | Tasks | Estimate (h)
 ---------- | ---------| -------- | ------
 | 2017/08/10 | 2017/08/10  | - Create branch feature/portfolio-landing | 8.0 
