@@ -16,7 +16,6 @@
 - CSS3
 ### ESTIMATIONS
 7 days (August 10, 2017 - August 18, 2017)
-
 | Start day  | End day     |    Task    | Estimate (h) |
 | ---------- | ----------- | -------- | ------ |
 | 2017/08/10 | 2017/08/10  | - Create branch feature/portfolio-landing<br />   - Analyze PSD file <br />- Estimate <br />- Create README.md file<br /> | 8.0 |
@@ -28,6 +27,4 @@
 | 2017/08/16 | 2017/08/16 | - Header(CSS)<br /> - About(CSS)<br /> - See my work(CSS) | 8.0
 | 2017/08/17 | 2017/08/17 | - Testimonial(CSS)<br /> - Video(CSS)<br /> - Contact(CSS)<br /> - Footer(CSS) | 8.0
 | 2017/08/18 | 2017/08/18 | - Testing | 8.0 
-
-
 
